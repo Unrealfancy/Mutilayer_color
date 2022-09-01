@@ -5,7 +5,8 @@ Fast calculation of spectra and CIE colors of multi-layer membrane structures wi
 再利用CIE1931色空间原理计算反射光的颜色状态（可设置光源和视场角）。功能基于matlab app 实现，需要安装Image Processing Toolbox,
 可以在附加功能管理器中检查是否安装。
 
-
+更新V1.10：
+增加了偏振选择
 
 参考文献：  
 [1]Macleod, H. Angus, and H. Angus Macleod. Thin-film optical filters. CRC press, 2010.
