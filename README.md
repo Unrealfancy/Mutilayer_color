@@ -33,5 +33,6 @@ Fast calculation of spectra and CIE colors of multi-layer membrane structures wi
  低版本matlab（2018及以下）可能无法在app里看到CIE色空间，只能在打开时的新窗口中显示，如果出现的话，请不要关闭该窗口
     
 ![image](https://user-images.githubusercontent.com/109337832/181210147-6344766e-8f72-4e28-9c37-dd093a66073c.png)
+![image](https://user-images.githubusercontent.com/109337832/190897306-aa0138d0-3d22-4056-a3f9-e2828b94fb1d.png)
 
  
