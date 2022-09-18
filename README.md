@@ -8,6 +8,10 @@ Fast calculation of spectra and CIE colors of multi-layer membrane structures wi
 更新V1.10：
 增加了偏振选择
 
+更新V1.16:
+增加了Sweep功能，可以扫薄膜厚度的参数，更方便获得结果  
+  
+
 参考文献：  
 [1]Macleod, H. Angus, and H. Angus Macleod. Thin-film optical filters. CRC press, 2010.
 [2]Billmeyer and Saltzman. Principles of Color Technology 3rd Edition. Wiley-Interscience. 2000. ISBN 0-471-19459-X.
