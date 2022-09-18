@@ -9,7 +9,7 @@ Fast calculation of spectra and CIE colors of multi-layer membrane structures wi
 增加了偏振选择
 
 更新V1.16:
-增加了Sweep功能，可以扫薄膜厚度的参数，更方便获得结果  
+增加了Sweep功能，可以扫薄膜厚度的参数，更方便获得结果 ，同时增加的数据导出功能，支持单点和扫参数数据导出 
   
 
 参考文献：  
